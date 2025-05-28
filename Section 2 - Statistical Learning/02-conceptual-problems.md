@@ -31,6 +31,19 @@ Flexible methods (e.g., trees, splines, neural networks) are well-suited to mode
 High noise levels increase the risk of overfitting for flexible methods. Inflexible methods are more robust in these scenarios.
 
 ---
+## 3 Bias-Variance decomposition
+
+[02_03.png]
+
+#### Bias² (blue, dashed): Decreases with flexibility — flexible models can fit data better.
+#### Variance (red, dashed): Increases with flexibility — flexible models are more sensitive to fluctuations in the data.
+#### Training Error (green, dotted): Decreases — flexible models can fit training data very well.
+#### Test Error (black, solid): U-shaped curve — initially decreases due to reduced bias but increases later due to high variance (overfitting).
+#### Bayes Error (purple, dash-dot): Constant — the irreducible error inherent in the data.
+
+
+
+
 
 ## 4 Real-Life Applications
 
