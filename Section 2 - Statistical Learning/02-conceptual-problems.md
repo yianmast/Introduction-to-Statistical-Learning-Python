@@ -33,7 +33,7 @@ High noise levels increase the risk of overfitting for flexible methods. Inflexi
 ---
 ## 3 Bias-Variance decomposition
 
-[02_03.png]
+[Section 2 - Statistical Learning/02_03.png]
 
 #### Bias² (blue, dashed): Decreases with flexibility — flexible models can fit data better.
 #### Variance (red, dashed): Increases with flexibility — flexible models are more sensitive to fluctuations in the data.
